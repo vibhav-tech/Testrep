@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29894" started-at="2020-11-22T16:21:01Z" finished-at="2020-11-22T16:21:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29894" started-at="2020-11-22T16:21:01Z" finished-at="2020-11-22T16:21:31Z">
+      <class name="com.xyz.test.extentreport.Extent_rep">
+        <test-method status="PASS" signature="VerifyblogTitle()[pri:0, instance:com.xyz.test.extentreport.Extent_rep@204f30ec]" name="VerifyblogTitle" duration-ms="27794" started-at="2020-11-22T16:21:01Z" finished-at="2020-11-22T16:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyblogTitle -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.xyz.test.extentreport.Extent_rep@204f30ec]" name="tearDown" is-config="true" duration-ms="1949" started-at="2020-11-22T16:21:29Z" finished-at="2020-11-22T16:21:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyblogTitle status=SUCCESS method=Extent_rep.VerifyblogTitle()[pri:0, instance:com.xyz.test.extentreport.Extent_rep@204f30ec] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xyz.test.extentreport.Extent_rep -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
